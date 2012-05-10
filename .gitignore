@@ -1,0 +1,4 @@
+*.o
+my_parser
+*.hi
+
